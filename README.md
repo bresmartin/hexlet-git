@@ -1,2 +1,1 @@
-Hello Hexlet!
-# Bresmartin
+Hello, Hexlet! How are you?
